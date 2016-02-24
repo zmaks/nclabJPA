@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nclabJPA:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="nclabJPA.war">
+      <element id="artifact" artifact-name="nclabJPA:war exploded" />
+    </root>
+  </artifact>
+</component>
